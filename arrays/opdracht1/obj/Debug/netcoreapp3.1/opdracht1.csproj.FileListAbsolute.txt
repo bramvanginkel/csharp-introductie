@@ -1,0 +1,13 @@
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\bin\Debug\netcoreapp3.1\opdracht1.exe
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\bin\Debug\netcoreapp3.1\opdracht1.deps.json
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\bin\Debug\netcoreapp3.1\opdracht1.runtimeconfig.json
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\bin\Debug\netcoreapp3.1\opdracht1.runtimeconfig.dev.json
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\bin\Debug\netcoreapp3.1\opdracht1.dll
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\bin\Debug\netcoreapp3.1\opdracht1.pdb
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\obj\Debug\netcoreapp3.1\opdracht1.csprojAssemblyReference.cache
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\obj\Debug\netcoreapp3.1\opdracht1.AssemblyInfoInputs.cache
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\obj\Debug\netcoreapp3.1\opdracht1.AssemblyInfo.cs
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\obj\Debug\netcoreapp3.1\opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\obj\Debug\netcoreapp3.1\opdracht1.dll
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\obj\Debug\netcoreapp3.1\opdracht1.pdb
+C:\Users\BramvanGinkel\source\repos\arrays\opdracht1\obj\Debug\netcoreapp3.1\opdracht1.genruntimeconfig.cache
